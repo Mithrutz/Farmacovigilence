@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+~$*.xlsx
+test_output*.xlsx
+test_urls.txt
+PubMed_Scraper
